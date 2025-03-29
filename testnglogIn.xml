@@ -3,7 +3,7 @@
 <suite name="Selenium Tests Suite" parallel="tests" thread-count="2">
     <test name="Login Test">
         <classes>
-            <class name="org.example.SE1.logIn"/>
+            <class name="org.example.SE1.TestSel_verifyOTP_FOR_LOGIN"/>
         </classes>
     </test>
 </suite>
